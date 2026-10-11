@@ -19,12 +19,6 @@
 		{
 			"binding": "DB",
 			"database_name": "mailflow-db",
-			"database_id": "5a27ec3b-bd7d-4b45-be6d-10ad59aeb9de",
-			"migrations_dir": "migrations"
-		},
-		{
-			"binding": "mailflow_db",
-			"database_name": "mailflow-db",
 			"database_id": "7735b535-cd2e-42c4-bbfb-e67fc3712cc2",
 			"remote": true
 		}
